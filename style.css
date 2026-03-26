@@ -1,1 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+h1 {
+    color: yellowgreen;
+}
+h2 {
+    color: red;
+}
+
+.desc {
+    font-size: 14px;
+    color: blue;
+}
+
+.desc2 {
+    font-size: 16px;
+    color: purple;
+}
